@@ -1,0 +1,16 @@
+cachetools==4.2.4
+certifi==2022.5.18.1
+charset-normalizer==2.0.12
+cssselect==1.1.0
+cssutils==2.3.1
+email-to==0.1.0
+idna==3.3
+importlib-metadata==4.8.3
+lxml==4.8.0
+Markdown==3.3.7
+param==1.12.1
+premailer==3.10.0
+requests==2.27.1
+typing-extensions==4.1.1
+urllib3==1.26.9
+zipp==3.6.0

@@ -27,7 +27,7 @@ TZID:Asia/Calcutta
 DTSTART:startDate
 DTEND:endDate
 DTSTAMP:now
-ORGANIZER;CN=Satish Havannavar:mailto:satish.havannavar@gmail.com
+ORGANIZER;CN=Anup Shetty:mailto:myname@gmail.com
 UID:enl9s8h4124pcr7ectskg63jf8@google.com
 attend
 CREATED:20150507T205645Z
